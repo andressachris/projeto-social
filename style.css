@@ -53,7 +53,8 @@ section#redes-sociais>a>img {
     margin: 10px;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.399);
-    box-sizing: border-box; /*Para a bordar fazer parte da caixa*/
+    box-sizing: border-box;
+    /*Para a bordar fazer parte da caixa*/
 }
 
 section#redes-sociais img:hover {
